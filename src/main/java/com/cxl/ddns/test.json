@@ -1,0 +1,25 @@
+{
+  "name": "cxl",
+  "array": [
+    {
+      "grander": "female",
+      "age": 12,
+      "array1": [
+        {
+          "region": "china",
+          "type": ["c","d"]
+        }
+      ]
+    },
+    {
+      "grander": "male",
+      "age": 15,
+      "array1": [
+        {
+          "region": "russia",
+          "type": ["a","b"]
+        }
+      ]
+    }
+  ]
+}
